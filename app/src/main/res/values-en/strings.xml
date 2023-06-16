@@ -1,0 +1,15 @@
+<resources>
+    <string name="language">change to chinese</string>
+    <string name="register">register</string>
+    <string name="logon">log on</string>
+    <string name="rem_pass">remember</string>
+    <string name="enter_pass">Please enter password</string>
+    <string name="pass">Password:</string>
+    <string name="enter_acc">Please enter account</string>
+    <string name="acc">Account:</string>
+    <string name="reg_acc">Account:</string>
+    <string name="reg_pass">Password:</string>
+    <string name="reg_acc_confirm">Confirm：</string>
+    <string name="exit">Exit</string>
+    <string name="logonsuc">Log on successfully</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">指间</string>
+    <string name="button_1">按钮一</string>
+    <string name="button_2">按钮二</string>
+    <string name="textview1">这是activity1</string>
+    <string name="textview2">这是activity2</string>
+    <string name="_1">测试1</string>
+    <string name="_2">测试2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="save_button_text">保存</string>
+    <string name="del_button_text">删除</string>
+    <string name="wri_button_text">手写输入</string>
+    <string name="title_activity_main111">MainActivity111</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="language">切换英文</string>
+    <string name="register">注册</string>
+    <string name="logon">登录</string>
+    <string name="rem_pass">记住密码</string>
+    <string name="enter_pass">请输入密码</string>
+    <string name="pass">密码：</string>
+    <string name="enter_acc">请输入用户名或手机号</string>
+    <string name="acc">账号：</string>
+    <string name="reg_acc">账&#12288;&#12288;号：</string>
+    <string name="reg_pass">密&#12288;&#12288;码：</string>
+    <string name="reg_acc_confirm">确认密码：</string>
+    <string name="exit">退出</string>
+    <string name="logonsuc">登录成功</string>
+</resources>
